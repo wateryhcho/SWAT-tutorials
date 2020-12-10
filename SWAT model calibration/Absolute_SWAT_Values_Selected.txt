@@ -1,0 +1,24 @@
+Parameter_Name          Cal. Method     Min_value      Max_value
+1:A__ALPHA_BF.gw        Add             0              1    
+2:R__CN2.mgt            Multiply by     35             98   
+3:A__SURLAG.bsn         Add             0.05           24   
+4:A__CH_N1.sub          Add             0.01           0.3    
+5:A__CH_N2.rte          Add             0.01           0.3    
+6:A__ESCO.hru           Add             0              1   
+7:A__CH_K2.rte          Add             -0.01          500  
+8:R__SOL_AWC(..).sol    Multiply by     0              1    
+9:A__CANMX.hru          Add             0              100   
+10:A__EPCO.hru          Add             0              1    
+11:V__GW_REVAP.gw       Replace Value   0.02           0.2   
+12:R__SOL_K(..).sol     Multiply by     0              2000   
+13:V__GW_DELAY.gw       Replace Value   0              500    
+14:V__REVAPMN.gw        Replace Value   0              500  
+15:V__GWQMN.gw          Replace Value   0              5000 
+16:A__RCHRG_DP.gw       Add             0              1    
+17:A__SFTMP.bsn         Add             -5             1   
+18:R__SLSUBBSN.hru      Multiply by     10             150    
+19:A__SMFMN.bsn         Add             0              10    
+20:A__SMFMX.bsn         Add             0              10    
+21:R__SMTMP.bsn         Multiply by     -20            20    
+22:R__SOL_Z(..).sol     Multiply by     0              3500    
+23:A__TIMP.bsn          Add             0              1   
